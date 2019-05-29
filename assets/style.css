@@ -101,7 +101,7 @@ p{
   color: white;
 }
 
-#navbar h1{
+#navbar .logo{
   float: left;
   padding-top: 20px;
 }
@@ -151,7 +151,7 @@ p{
 
 /* Home Info */
 #home-info{
-  height: 400px;
+  height: 450px;
 }
 
 #home-info .info-img {
